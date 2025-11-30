@@ -47,4 +47,15 @@ streamlit run app.py
 - Saved using Joblib
 - Uses column ordering with columns.pkl
 
+## ✨ Author
+Manjesh Kumar Yadav 
+Machine Learning & Python Developer
+
+If anyone wants to improve this project, feel free to make changes, **add features, or enhance** it. Pull requests and suggestions are always welcome!  
+
+---
+
+## Prediction Output 
+<img width="1366" height="1564" alt="screencapture-localhost-8501-2025-11-30-22_19_50" src="https://github.com/user-attachments/assets/a0801da0-2b2b-44ec-896a-93517a56d397" />
+
 
