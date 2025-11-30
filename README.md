@@ -1,4 +1,5 @@
 # ❤️ Heart Attack Prediction System Using Machine Learning & Streamlit
+Live Demo App here: [Open App](https://heart-attack-risk-detection.streamlit.app/)
 
 This project predicts the **risk of heart attack** using a machine learning model trained on medical attributes such as blood pressure, cholesterol, chest pain type, and more. The project includes a **Streamlit web app**, making it easy for anyone to input data and instantly view prediction results.
 
